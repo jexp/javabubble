@@ -16,12 +16,8 @@ create a annoying business model.
 
 ## Handle Mapping
 
-From the table below a [following.csv](https://github.com/marchof/javabubble/releases/download/latest-exports/following.csv) CSV file is automatically created that we can import directly into Mastodon.
+Please keep the alphabetic ordering by Twitter handle when adding more people. Thanks!
 
-
-
-
-*Please keep the alphabetic ordering by Twitter handle when adding more people. Thanks!*
 
 Twitter              | Fediverse                           | Name
 -------------------- | ----------------------------------- | ---------------------
@@ -66,8 +62,6 @@ Twitter              | Fediverse                           | Name
 @jean_bisutti        | @jean_bisutti@mastodon.social       | Jean Bisutti
 @jeanneboyarsky      | @jeanneboyarsky@mastodon.social     | Jeanne Boyarsky
 @JeffAtSun           | @jeff_dinkins@mastodon.social       | Jeff Dinkins
-@johanvos            | @johanvos@mastodon.social           | Johan Vos
-@jonatan_ivanov      | @jonatan_ivanov@mastodon.social     | Jonatan Ivanov
 @joshbloch           | @joshbloch@mastodon.social          | Joshua Bloch
 @jpbempel            | @jpbempel@mastodon.online           | Jean-Philippe Bempel
 @jponge              | @jponge@mastodon.social             | Julien Ponge
@@ -81,6 +75,7 @@ Twitter              | Fediverse                           | Name
 @maxandersen         | @maxandersen@mastodon.social        | Max Rydahl Andersen
 @McPringle           | @McPringle@mastodon.social          | Marcus Fihlon
 @MGrzejszczak        | @marcin_grzejszczak@mastodon.social | Marcin Grzejszczak
+@mesirii             | @mesirii@chaos.social               | Michael Hunger
 @mjduigou            | @bondolo@mastodon.social            | Mike Duigou
 @mreinhold           | @mreinhold@mastodon.social          | Mark Reinhold
 @mrhaki              | @mrhaki@mastodon.online             | Hubert Klein Ikkink
@@ -95,7 +90,6 @@ Twitter              | Fediverse                           | Name
 @OliverLibutzki      | @OliverLibutzki@mastodon.social     | Oliver Libutzki 
 @omniprof            | @omniprof@mastodon.social           | Ken Fogel
 @patbaumgartner      | @patbaumgartner@mastodon.social     | Patrick Baumgartner
-@philross            | @philross@mastodon.social           | Phillip Ross
 @philipp_hauer       | @philipp_hauer@mastodon.online      | Philipp Hauer
 @pintoch             | @pintoch@mamot.fr                   | Antonin Delpeuch
 @rafaelcodes         | @rafaelcodes@mastodon.social        | Rafael Winterhalter
