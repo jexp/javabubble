@@ -1,0 +1,21 @@
+name: Generate Exports
+
+on:
+  push
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-java@v3
+      with:
+        distribution: temurin
+        java-version: 17
+    - run: |
+        java gen/GenerateImport.java < README.md > following.csv
+    - uses: johnwbyrd/update-release@v1.0.0
+      with:
+        release: latest-exports
+        token: ${{ secrets.GITHUB_TOKEN }}
+        files: following.csv
